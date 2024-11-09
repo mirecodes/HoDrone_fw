@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 #include <EEPROM.h>
 #include "MPU9250.h"
 
